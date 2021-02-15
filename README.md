@@ -7,8 +7,7 @@ I want to create a world that everyone can be excited about with my own hands.
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 
 ## My Language Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyaamano23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyaamano23&layout=compact)](https://github.com/yuyaamano23)
 
 ## My Qiita Status
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuya2218/posts.svg)](http://qiita.com/Yuya2218)
