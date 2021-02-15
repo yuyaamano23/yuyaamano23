@@ -2,6 +2,12 @@
 
 I want to create a world that everyone can be excited about with my own hands.
 
+**✨✨Things I want to do✨✨**
+- ~Building a Docker environment~(Done💪)
+- Using Firebase
+- Contributing to OSS!
+
+
 ## Main Skills
 
 ![Larevel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
