@@ -4,9 +4,8 @@ I want to create a world that everyone can be excited about with my own hands.
 
 ### Recent Blog Posts
 
-<!--[START POSTS]-->
-
-<!--[END POSTS]-->
+<!-- feed start -->
+<!-- feed end -->
 
 ## Main Skills
 
