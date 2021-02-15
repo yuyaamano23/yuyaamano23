@@ -23,4 +23,4 @@ I want to create a world that everyone can be excited about with my own hands.
 
 ## SNS
 [![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg)](https://twitter.com/Yuya2218)
-[![Gmail](https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg)](https://twitter.com/Yuya2218)
+
