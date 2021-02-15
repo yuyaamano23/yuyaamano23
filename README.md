@@ -1,10 +1,13 @@
 ### About Me 👋
 I want to create a world that everyone can be excited about with my own hands.
 
+### Recent Blog Posts
+<!--[START POSTS]-->
+
+<!--[END POSTS]-->
 ## Main Skills
 ![Larevel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 
 ## My Language Status
@@ -20,3 +23,4 @@ I want to create a world that everyone can be excited about with my own hands.
 
 ## SNS
 [![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg)](https://twitter.com/Yuya2218)
+[![Gmail](https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg)](https://twitter.com/Yuya2218)
