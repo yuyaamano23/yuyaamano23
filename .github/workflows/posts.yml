@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: "https://qiita.com/Yuya2218/feed"
+          url: "https://note.sarisia.cc/index.xml"
           file: "README.md"
       - run: |
           git config --global user.name "${{ github.actor }}"
