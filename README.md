@@ -19,11 +19,21 @@ I want to create a world that everyone can be excited about with my own hands.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyaamano23&layout=compact)](https://github.com/yuyaamano23)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyaamano23&show_icons=true&theme=flag-india)
 
-## My Qiita Status
+## My Zenn Status
+<!-- Like のバッジ -->
+  <a href="https://zenn.dev/yuyaamano23">
+    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/likes?style=plastic" alt="yuyaamano23 likes" />
+  </a>
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuya2218/posts.svg)](http://qiita.com/Yuya2218)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yuya2218/contributions.svg)](http://qiita.com/Yuya2218)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/Yuya2218/followers.svg)](http://qiita.com/Yuya2218)
+  <!-- Articles のバッジ -->
+  <a href="https://zenn.dev/yuyaamano23/articles">
+    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/articles?style=plastic" alt="yuyaamano23 articles" />
+  </a>
+
+  <!-- Followers のバッジ -->
+  <a href="https://zenn.dev/yuyaamano23/followers">
+    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/followers?style=plastic" alt="yuyaamano23 followers" />
+  </a>
 
 ## SNS　Blog
 
