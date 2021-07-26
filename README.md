@@ -3,8 +3,8 @@
 I want to create a world that everyone can be excited about with my own hands.
 
 **✨✨Things I want to do✨✨**<br>
-- [ ] Building a Docker environment(Done💪)
-- [ ] Using Firebase(Done💪)
+- [x] Building a Docker environment(Done💪)
+- [x] Using Firebase(Done💪)
 - [ ] Exhibit the service at the event.
 - [ ] Contributing to OSS!
 
