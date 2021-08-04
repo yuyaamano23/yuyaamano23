@@ -6,7 +6,8 @@ I want to create a world that everyone can be excited about with my own hands.
 - [x] Building a Docker environment(Done💪)
 - [x] Using Firebase(Done💪)
 - [ ] Exhibit the service at the event.
-- [ ] Contributing to OSS!
+- [x] Contributing to OSS!
+ - https://github.com/chakra-ui/chakra-ui/issues/4328#issuecomment-892156675
 
 
 ## Main Skills
