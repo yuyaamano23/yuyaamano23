@@ -22,24 +22,6 @@ I want to create a world that everyone can be excited about with my own hands.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyaamano23&layout=compact)](https://github.com/yuyaamano23)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyaamano23&show_icons=true&theme=flag-india)
 
-## My Zenn Status
-
-  <a href="https://zenn.dev/yuyaamano23">
-    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/likes?style=for-the-badge" alt="yuyaamano23 likes" />
-  </a>
-  <a href="https://zenn.dev/yuyaamano23/articles">
-    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/articles?style=for-the-badge" alt="yuyaamano23 articles" />
-  </a>
-  <a href="https://zenn.dev/yuyaamano23/followers">
-    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/followers?style=for-the-badge" alt="yuyaamano23 followers" />
-  </a>
-  <a href="https://zenn.dev/yuyaamano23/books">
-    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/books?style=for-the-badge" alt="yuyaamano23 books" />
-  </a>
-  <a href="https://zenn.dev/yuyaamano23/scraps">
-    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/scraps?style=for-the-badge" alt="yuyaamano23 scraps" />
-  </a>
-
 ## SNS 　 Blog
 
 [![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg)](https://twitter.com/Yuya2218)
