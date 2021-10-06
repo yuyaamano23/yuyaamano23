@@ -1,0 +1,21 @@
+name: Update README
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: update zenn rss feed
+        run: |
+          chmod +x "${GITHUB_WORKSPACE}/rss-feed.sh"
+          "${GITHUB_WORKSPACE}/rss-feed.sh"
+      - name: git commit
+        run: |
+          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git config --local user.name "yuyaamano23"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update Zenn RSS feed"; git push origin main
