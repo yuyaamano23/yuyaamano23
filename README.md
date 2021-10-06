@@ -42,7 +42,6 @@ I want to create a world that everyone can be excited about with my own hands.
 ## Latest 5 articles
 
 <!-- LATEST_ARTICLES_START -->
-<!-- LATEST_ARTICLES_END -->
 
 ## SNS 　 Blog
 
@@ -51,3 +50,9 @@ I want to create a world that everyone can be excited about with my own hands.
 [Zenn](https://zenn.dev/yuyaamano23)
 <img src="https://user-images.githubusercontent.com/58542696/107916312-73ecff80-6fa9-11eb-8c7d-f60763c7374c.png" width="5%">
 [Qiita](https://qiita.com/Yuya2218)
+- [Next.jsにstyled-componentsを適応させる](https://zenn.dev/yuyaamano23/articles/ce2d5fdf56e7b6)
+- [Next.jsのプロジェクトにTypeScriptを導入する方法](https://zenn.dev/yuyaamano23/articles/ca8648b395551a)
+- [【husky】commit時にESLintを、push時にJestを自動で走らせる](https://zenn.dev/yuyaamano23/articles/4856c45c3d3db1)
+- [保守性の高いコミットメッセージを書こう](https://zenn.dev/yuyaamano23/articles/d7b9e39d3619bd)
+- [Docker環境のDB(MySQL)コンテナに接続する方法](https://zenn.dev/yuyaamano23/articles/b1033e0c04ffba)
+<!-- LATEST_ARTICLES_END -->
