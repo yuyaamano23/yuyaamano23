@@ -24,19 +24,20 @@ I want to create a world that everyone can be excited about with my own hands.
 
 ## My Zenn Status
 
-<!-- Like のバッジ -->
   <a href="https://zenn.dev/yuyaamano23">
-    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/likes?style=plastic" alt="yuyaamano23 likes" />
+    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/likes?style=for-the-badge" alt="yuyaamano23 likes" />
   </a>
-
-  <!-- Articles のバッジ -->
   <a href="https://zenn.dev/yuyaamano23/articles">
-    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/articles?style=plastic" alt="yuyaamano23 articles" />
+    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/articles?style=for-the-badge" alt="yuyaamano23 articles" />
   </a>
-
-  <!-- Followers のバッジ -->
   <a href="https://zenn.dev/yuyaamano23/followers">
-    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/followers?style=plastic" alt="yuyaamano23 followers" />
+    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/followers?style=for-the-badge" alt="yuyaamano23 followers" />
+  </a>
+  <a href="https://zenn.dev/yuyaamano23/books">
+    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/books?style=for-the-badge" alt="yuyaamano23 books" />
+  </a>
+  <a href="https://zenn.dev/yuyaamano23/scraps">
+    <img src="https://zenn.badge.nikaera.com/s/yuyaamano23/scraps?style=for-the-badge" alt="yuyaamano23 scraps" />
   </a>
 
 ## Latest 5 articles
