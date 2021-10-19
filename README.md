@@ -10,12 +10,24 @@ I want to create a world that everyone can be excited about with my own hands.
 - [ ] Exhibit the service at the event.
 - [x] Contributing to OSS!
 - https://github.com/chakra-ui/chakra-ui/issues/4328#issuecomment-892156675
+- [ ] Develop an application by React Native.
 
 ## Main Skills
 
 ![Larevel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
+
+## Portfolio
+
+- Owned media for a local company in Shizuoka (Vue.js)<br>
+  URL:https://hint.e-toms.com/ <br>
+- Real-time open chat application (Nuxt.js) <br>
+  overview:https://docs.google.com/presentation/d/1tq3w_JTKOItHMCRZYfk3M8s9tLFdCcr_GUYXpspp8cU/edit?usp=sharing <br>
+  source code:https://github.com/yuyaamano23/Nuxt.js-real-time-chat-ap <br>
+  URL:uxt-chat-app-20d63.firebaseapp.com <br>
+- Linebot for Google Calendar Notifications (GAS) <br>
+  source code:https://github.com/yuyaamano23/google_calendar_notification_LINEbot <br>
 
 ## My Status
 
@@ -33,9 +45,10 @@ I want to create a world that everyone can be excited about with my own hands.
 ## Latest 5 articles
 
 <!-- LATEST_ARTICLES_START -->
-- [Next.jsにglobal.cssを適応させる](https://zenn.dev/yuyaamano23/articles/1661278dfe650f)
-- [Next.jsにstyled-componentsを適応させる](https://zenn.dev/yuyaamano23/articles/ce2d5fdf56e7b6)
-- [Next.jsのプロジェクトにTypeScriptを導入する方法](https://zenn.dev/yuyaamano23/articles/ca8648b395551a)
-- [【husky】commit時にESLintを、push時にJestを自動で走らせる](https://zenn.dev/yuyaamano23/articles/4856c45c3d3db1)
+
+- [Next.js に global.css を適応させる](https://zenn.dev/yuyaamano23/articles/1661278dfe650f)
+- [Next.js に styled-components を適応させる](https://zenn.dev/yuyaamano23/articles/ce2d5fdf56e7b6)
+- [Next.js のプロジェクトに TypeScript を導入する方法](https://zenn.dev/yuyaamano23/articles/ca8648b395551a)
+- [【husky】commit 時に ESLint を、push 時に Jest を自動で走らせる](https://zenn.dev/yuyaamano23/articles/4856c45c3d3db1)
 - [保守性の高いコミットメッセージを書こう](https://zenn.dev/yuyaamano23/articles/d7b9e39d3619bd)
 <!-- LATEST_ARTICLES_END -->
