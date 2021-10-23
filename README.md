@@ -1,12 +1,12 @@
 ### About Me 👋
 
-I want to create a world that everyone can be excited about with my own hands.
+I want to create a world where everyone is excited！
 
 **✨✨Things I want to do in 2021✨✨**<br>
 
 - [x] Building a Docker environment(Done💪)
 - [x] Using Firebase(Done💪)
-      　　-　https://image-gallery-next-js.vercel.app/
+- https://image-gallery-next-js.vercel.app/
 - [ ] Exhibit the service at the event.
 - [x] Contributing to OSS!
 - https://github.com/chakra-ui/chakra-ui/issues/4328#issuecomment-892156675
@@ -22,14 +22,13 @@ I want to create a world that everyone can be excited about with my own hands.
 
 ## Portfolio
 
-- Owned media for a local company in Shizuoka (Vue.js)<br>
-  URL:https://hint.e-toms.com/ <br>
-- Real-time open chat application (Nuxt.js) <br>
-  overview:https://docs.google.com/presentation/d/1tq3w_JTKOItHMCRZYfk3M8s9tLFdCcr_GUYXpspp8cU/edit?usp=sharing <br>
-  source code:https://github.com/yuyaamano23/Nuxt.js-real-time-chat-ap <br>
-  URL:uxt-chat-app-20d63.firebaseapp.com <br>
-- Linebot for Google Calendar Notifications (GAS) <br>
-  source code:https://github.com/yuyaamano23/google_calendar_notification_LINEbot <br>
+
+|<img width="200" alt="スクリーンショット 2021-10-23 20 28 58" src="https://user-images.githubusercontent.com/58542696/138554509-f5b7eba6-f4bc-4273-b74c-726ce11c4b91.png">|<img width="200" height="170" alt="スクリーンショット 2021-10-23 20 28 58" src="https://user-images.githubusercontent.com/58542696/138554289-a481ce52-cb70-4ec9-afda-a8016d9b9e5d.png">|<img width="200" height="200" alt="スクリーンショット 2021-10-23 20 27 40" src="https://user-images.githubusercontent.com/58542696/138554292-cbab7980-27f2-4d9f-af25-11d828c58505.png">|![youtube_social_square_red.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/362315/65d2d650-aee5-40cb-2093-607d931ec087.png)|
+|---|---|---|---|
+|Owned media for a local company in Shizuoka|Real-time open chat application|Linebot for Google Calendar Notifications|aaa|
+|Vue.js|Nuxt.js|GAS|aaa|
+|[URL](https://hint.e-toms.com/)<br>|[overview](https://docs.google.com/presentation/d/1tq3w_JTKOItHMCRZYfk3M8s9tLFdCcr_GUYXpspp8cU/edit?usp=sharing)<br>[source code](https://github.com/yuyaamano23/Nuxt.js-real-time-chat-ap)<br>[URL](uxt-chat-app-20d63.firebaseapp.com)<br>|[sourcecode](https://github.com/yuyaamano23/google_calendar_notification_LINEbot)<br>|aaa|
+
 
 ## My Status
 
