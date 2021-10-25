@@ -1,6 +1,10 @@
 ### About Me 👋
 
-I want to create a world where everyone is excited！
+Dream:I want to create products that will make people's lives better with my own hands.<br>
+Address:Shizuoka in Japan<br>
+Age:23<br>
+Occupation:Shizuoka university<br>
+Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 
 **✨✨Things I want to do in 2021✨✨**<br>
 
@@ -20,6 +24,8 @@ I want to create a world where everyone is excited！
 ![Larevel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
+<img width="65" alt="python logo" src="https://user-images.githubusercontent.com/58542696/138732502-a4a67d24-411b-4ed5-b2ce-6756f8efeeea.png">
+
 
 ## Portfolio
 
