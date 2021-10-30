@@ -6,6 +6,7 @@ Age:23<br>
 Occupation:Shizuoka university<br>
 Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 
+
 **✨✨Things I want to do in 2021✨✨**<br>
 
 - [x] Building a Docker environment(Done💪)
@@ -27,7 +28,7 @@ Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 ## Portfolio
 
 
-|<img width="200" alt="スクリーンショット 2021-10-23 20 28 58" src="https://user-images.githubusercontent.com/58542696/138554509-f5b7eba6-f4bc-4273-b74c-726ce11c4b91.png">|<img width="200" height="170" alt="スクリーンショット 2021-10-23 20 28 58" src="https://user-images.githubusercontent.com/58542696/138554289-a481ce52-cb70-4ec9-afda-a8016d9b9e5d.png">|<img width="200" height="200" alt="スクリーンショット 2021-10-23 20 27 40" src="https://user-images.githubusercontent.com/58542696/138554292-cbab7980-27f2-4d9f-af25-11d828c58505.png">|![youtube_social_square_red.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/362315/65d2d650-aee5-40cb-2093-607d931ec087.png)|
+|<img width="250" alt="スクリーンショット 2021-10-23 20 28 58" src="https://user-images.githubusercontent.com/58542696/138554292-cbab7980-27f2-4d9f-af25-11d828c58505.png">|<img width="200" height="170" alt="スクリーンショット 2021-10-23 20 28 58" src="https://user-images.githubusercontent.com/58542696/138554289-a481ce52-cb70-4ec9-afda-a8016d9b9e5d.png">|<img width="150" height="200" alt="スクリーンショット 2021-10-23 20 27 40" src="https://user-images.githubusercontent.com/58542696/139528764-863b52f5-4968-418f-9afc-abb3be150b3f.png">|![youtube_social_square_red.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/362315/65d2d650-aee5-40cb-2093-607d931ec087.png)|
 |---|---|---|---|
 |Owned media for a local company in Shizuoka|Real-time open chat application|Linebot for Google Calendar Notifications|aaa|
 |Vue.js|Nuxt.js|GAS|aaa|
