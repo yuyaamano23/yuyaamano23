@@ -21,10 +21,7 @@ Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 
 ## Main Skills
 
-![Larevel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
-![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
-<img width="65" alt="python logo" src="https://user-images.githubusercontent.com/58542696/138732502-a4a67d24-411b-4ed5-b2ce-6756f8efeeea.png">
+<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
 ## Portfolio
@@ -42,13 +39,12 @@ Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyaamano23&layout=compact)](https://github.com/yuyaamano23)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyaamano23&show_icons=true&theme=flag-india)
 
-## SNS 　 Blog
+## SNS
 
-[![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg)](https://twitter.com/Yuya2218)
-<img src="https://user-images.githubusercontent.com/58542696/107915561-0f7d7080-6fa8-11eb-97f3-0f92cdb4ca71.png" width="10%">
-[Zenn](https://zenn.dev/yuyaamano23)
-<img src="https://user-images.githubusercontent.com/58542696/107916312-73ecff80-6fa9-11eb-8c7d-f60763c7374c.png" width="5%">
-[Qiita](https://qiita.com/Yuya2218)
+<a href="https://twitter.com/yuya2218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuya2218" height="50" width="50" /></a>
+<a href="https://zenn.dev/yuyaamano23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/58542696/107915561-0f7d7080-6fa8-11eb-97f3-0f92cdb4ca71.png" alt="yuya2218" height="40" width="70" /></a>
+<a href="https://qiita.com/Yuya2218" target="blank"><img align="center" src="https://user-images.githubusercontent.com/58542696/107916312-73ecff80-6fa9-11eb-8c7d-f60763c7374c.png" alt="yuya2218" height="50" width="50" /></a>
+
 
 ## Latest 5 articles
 
