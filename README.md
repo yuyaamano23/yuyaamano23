@@ -18,7 +18,7 @@ Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 - [ ] Develop an application by React Native.
 - https://github.com/yuyaamano23/random-button-native
 - [ ] Develop an application by Flutter.
-- [ ] Get a qualification for Fundamental Information Technology Engineer Examination.(FE)
+- [x] Get a qualification for Fundamental Information Technology Engineer Examination.(FE)
 
 ## Main Skills
 
