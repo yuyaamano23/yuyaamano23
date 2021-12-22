@@ -20,6 +20,11 @@ Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 - [ ] Develop an application by Flutter.
 - [x] Get a qualification for Fundamental Information Technology Engineer Examination.(FE)
 
+**✨✨Things I want to do in 2022✨✨**<br>
+
+- [ ] Build a Linux server environment.
+- [ ] Learn how to build an environment with Docker and publish it.
+
 ## Main Skills
 
 <p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
