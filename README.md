@@ -15,7 +15,7 @@ Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 - [ ] Exhibit the service at the event.
 - [x] Contributing to OSS!
 - https://github.com/chakra-ui/chakra-ui/issues/4328#issuecomment-892156675
-- [ ] Develop an application by React Native.
+- [x] Develop an application by React Native.
 - https://github.com/yuyaamano23/random-button-native
 - [ ] Develop an application by Flutter.
 - [x] Get a qualification for Fundamental Information Technology Engineer Examination.(FE)
