@@ -29,8 +29,8 @@ Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 
 <!-- LATEST_ARTICLES_START -->
 - [ニューモーフィズムでむにゅっとしたボタンを実装する](https://zenn.dev/yuyaamano23/articles/61e580b0a2ebe0)
-- [Next.jsにglobal.ssを適応させる](https://zenn.dev/yuyaamano23/articles/1661278dfe650f)
-- [Next.jsにstyled-omonentsを適応させる](https://zenn.dev/yuyaamano23/articles/ce2d5fdf56e7b6)
-- [Next.jsのプロジェクトにTyeSritを導入する方法](https://zenn.dev/yuyaamano23/articles/ca8648b395551a)
-- [【husky】ommit時にESLintを、ush時にJestを自動で走らせる](https://zenn.dev/yuyaamano23/articles/4856c45c3d3db1)
+- [Next.jsにglobal.cssを適応させる](https://zenn.dev/yuyaamano23/articles/1661278dfe650f)
+- [Next.jsにstyled-componentsを適応させる](https://zenn.dev/yuyaamano23/articles/ce2d5fdf56e7b6)
+- [Next.jsのプロジェクトにTypeScriptを導入する方法](https://zenn.dev/yuyaamano23/articles/ca8648b395551a)
+- [【husky】commit時にESLintを、push時にJestを自動で走らせる](https://zenn.dev/yuyaamano23/articles/4856c45c3d3db1)
 <!-- LATEST_ARTICLES_END -->
