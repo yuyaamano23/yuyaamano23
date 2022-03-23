@@ -28,9 +28,9 @@ Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 ## Latest 5 articles
 
 <!-- LATEST_ARTICLES_START -->
+- [box-shadowを少し綺麗に見せる工夫](https://zenn.dev/yuyaamano23/articles/9eb318e3fe2fcb)
 - [React Native + Expoで(Android,iOS)開発環境を構築する](https://zenn.dev/yuyaamano23/articles/dad35355a30036)
 - [ニューモーフィズムでむにゅっとしたボタンを実装する](https://zenn.dev/yuyaamano23/articles/61e580b0a2ebe0)
 - [Next.jsにglobal.cssを適応させる](https://zenn.dev/yuyaamano23/articles/1661278dfe650f)
 - [Next.jsにstyled-componentsを適応させる](https://zenn.dev/yuyaamano23/articles/ce2d5fdf56e7b6)
-- [Next.jsのプロジェクトにTypeScriptを導入する方法](https://zenn.dev/yuyaamano23/articles/ca8648b395551a)
 <!-- LATEST_ARTICLES_END -->
