@@ -3,7 +3,7 @@
 Dream:I want to create products that will make people's lives better with my own hands.<br>
 Address:Shizuoka in Japan<br>
 Age:24<br>
-Work historyhttps://www.wantedly.com/id/yuya_amano_dev<br>
+Work history:https://www.wantedly.com/id/yuya_amano_dev<br>
 Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
 
 
