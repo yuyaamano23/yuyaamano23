@@ -2,16 +2,9 @@
 
 Dream:I want to create products that will make people's lives better with my own hands.<br>
 Address:Shizuoka in Japan<br>
-Age:25<br>
+Age:26<br>
 Work history:https://www.wantedly.com/id/yuya_amano_dev<br>
 Interest/Hobb:Playing the guitar, Mahjong, Watching NBA<br>
-
-
-## Main Skills
-
-<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
 
 ## My Status
 
